@@ -19,4 +19,4 @@
 <h3>computer language</h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th)](https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th)
