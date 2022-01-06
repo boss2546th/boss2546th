@@ -19,4 +19,6 @@
 <h3>computer language</h3>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boss2546th&show_icons=true&theme=radical)
