@@ -18,6 +18,7 @@
 
 <h3>stats</h3>
 
+![](https://komarev.com/ghpvc/?username=boss2546th&color=green)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th&theme=radical)
 
