@@ -20,6 +20,10 @@
 
 ![](https://komarev.com/ghpvc/?username=boss2546th&color=green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boss2546th&show_icons=true&theme=radical)
+<a href="https://github.com/boss2546th">
+   <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=boss2546th&&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/boss2546th">
+   <img height="220" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th&&theme=radical" />
+</a>
