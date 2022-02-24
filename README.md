@@ -23,7 +23,8 @@
 
 <a href="https://github.com/boss2546th">
    <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=boss2546th&&show_icons=true&theme=radical" />
+     
 </a>
-<a href="https://github.com/boss2546th" style="float : left">
+<a href="https://github.com/boss2546th">
    <img height="220" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boss2546th&&theme=radical" />
 </a>
